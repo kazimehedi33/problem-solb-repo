@@ -1,3 +1,26 @@
 .problem{
     color: blue;
 }
+.audio{
+    color: aqua;
+}
+
+.video{
+    color: #300680;
+}
+nav > ul > li {
+    display: inline;
+    margin-right: 15px;
+}
+footer{
+    margin-top: 20px;
+    text-align:center;
+}
+nav > ul > li {
+    display: inline;
+    margin-right: 20px;
+    text-align: center;
+}
+nav li >a{
+    text-decoration: none;
+}
